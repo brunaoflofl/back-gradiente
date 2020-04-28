@@ -1,0 +1,27 @@
+body{
+    background-image: linear-gradient(45deg, #ff9a9e 0%, #fad0c4 99%, #fad0c4 100%);    
+}
+li{
+    display: inline;
+    list-style-type: none;
+    margin: 20px;
+}
+li a{
+    padding: 20px;
+}
+a:link, a:visited {
+    text-decoration: none;
+    color: black;
+	}
+a:hover {
+	text-decoration: none; 
+	color: rgb(229, 238, 236)
+	}
+a:active {
+	text-decoration: none
+    }
+.container{
+    display: flex;
+    justify-content: center;
+    
+}
